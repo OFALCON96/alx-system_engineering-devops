@@ -1,1 +1,2 @@
-new repo
+#!/bin/bash
+chmod u+x README.md 

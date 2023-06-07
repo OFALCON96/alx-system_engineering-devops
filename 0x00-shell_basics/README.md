@@ -1,2 +1,2 @@
 #!/bin/bash
-description
+chmod +x README.md
